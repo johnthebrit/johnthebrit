@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My key learning materials can be found on my YouTube channel at https://onboardtoazure.com
+- I have a curated learning path at https://learn.onboardtoazure.com
+
 <!--
 **johnthebrit/johnthebrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
