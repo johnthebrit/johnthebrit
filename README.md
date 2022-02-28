@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 My key learning materials can be found on my YouTube channel at https://onboardtoazure.com
-- ☁️ I have a curated learning path at https://learn.onboardtoazure.com and a repo at (johnthebrit/CertificationMaterials)[https://github.com/johnthebrit/CertificationMaterials]
+- ☁️ I have a curated learning path at https://learn.onboardtoazure.com and a repo at [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials)
 - 🔎 Lots of repos around different projects, classes and random information. Take a look around!
 
 Thanks for visiting!
